@@ -4,22 +4,110 @@
 - Name des Projektes: Spiel Machtergreifung 2021
 - Aufbau: Mehrere (politische, fiktive) Parteien, die um das Sagen in Deutschland konkurrieren
 - Der Player ist Mitglied EINER der Parteien
+
 - Es müssen ENTSCHEIDUNGEN getroffen werden, die das Spielgeschehen beeinflussen
-            Entscheidungen: - je "besser" (abhängig der derzeitigen Situation), desto näher dem Sieg (Kanzler/in)
-                            - zu viele "schlechte" führen zur Niederlage
-                            -> Schlüssel zum Sieg: Taktisch kluge Entscheidungen/Handlungen, politisches Einwirken
+Entscheidungen: 
+-- je "besser" (abhängig der derzeitigen Situation), desto näher dem Sieg (Kanzler/in)
+-- zu viele "schlechte" führen zur Niederlage
+--> Schlüssel zum Sieg: Taktisch kluge Entscheidungen/Handlungen, politisches Einwirken
+
 - Instanzen: Parteien, einzelne Politiker/Vertreter, Volk/Wähler, Presse, ...
   AUFGABEN des Players: 
-- Innerhalb der Partei:     - An die Spitze arbeiten
-                            - Andere Mitglieder überzeugen 
-                            - 
-- Außerhalb:                - Menschen für sich gewinnen -> Aufmerksamkeit
-                            - Politische Lage erkennen und Problemlösung vorschlagen
-                            - Wünsche des Volks berücksichtigen
+
+- Innerhalb der Partei:     
+-- An die Spitze arbeiten
+-- Andere Mitglieder überzeugen 
+-- 
+
+- Außerhalb:
+-- Menschen für sich gewinnen -> Aufmerksamkeit
+-- Politische Lage erkennen und Problemlösung vorschlagen
+-- Wünsche des Volks berücksichtigen
 
 Wie kann der Player das erreichen?
-Spielprinzip: - Schaltflächen mit Entscheidungen
-              - der Player wählt aus
-              - jede Entscheidung ändert das Spielgeschehen anders
-              - der Player wird über aktuelle Geschehnisse benachrichtigt, erhält Chance zu handeln
-              
+Spielprinzip: 
+- Schaltflächen mit Entscheidungen
+- der Player wählt aus
+- jede Entscheidung ändert das Spielgeschehen anders
+- der Player wird über aktuelle Geschehnisse benachrichtigt, erhält Chance zu handeln
+
+===================================
+=== Feedback Alpers, 2016-10-27 ===
+===================================
+
+=== 1.) Inhaltliches
+
+Momentan umschreiben Sie in groben Zügen das Szenario. Sie werden aber beim Versuch, daraus eine Struktur abzuleiten, dass Sie noch kaum Aspekte notiert haben, die sich in eine Struktur überleiten lassen. Schauen wir uns das mal im Detail an:
+
+== 1.) 
+- Name des Projektes: Spiel Machtergreifung 2021
+
+Gut.
+
+== 2.) 
+- Aufbau: Mehrere (politische, fiktive) Parteien, die um das Sagen in Deutschland konkurrieren
+- Der Player ist Mitglied EINER der Parteien
+
+Diese beiden Punkte sind weniger ein Aufbau, als vielmehr so etwas wie Gruppendefinitionen. Hier wäre wichtig, zu entscheiden, ob, bzw. welche Unterschiede es zwischen den Parteien gibt. Tatsächlich ergäben sich daraus eine spannende Möglichkeit, um dem Spiel Komplexität zu verleihen.
+
+== 3.)
+- Es müssen ENTSCHEIDUNGEN getroffen werden, die das Spielgeschehen beeinflussen
+Entscheidungen: 
+-- je "besser" (abhängig der derzeitigen Situation), desto näher dem Sieg (Kanzler/in)
+-- zu viele "schlechte" führen zur Niederlage
+--> Schlüssel zum Sieg: Taktisch kluge Entscheidungen/Handlungen, politisches Einwirken
+
+Hier fehlt leider noch jegliche Aussage dazu, was für Entscheidungen Spieler treffen können.
+Sie haben hier eine Entscheidung getroffen, die aber noch gar nicht deutlich wird: Macht bzw. Einfluss ist eine Eigenschaft des Spielercharakters.
+
+== 4.)
+- Instanzen: Parteien, einzelne Politiker/Vertreter, Volk/Wähler, Presse, ...
+
+Das sind bislang nur Namen. Im Entwurf soll erkennbar sein, was sich im Spiel wie auswirkt.
+
+== 5.)
+AUFGABEN des Players: 
+
+- Innerhalb der Partei:     
+-- An die Spitze arbeiten
+-- Andere Mitglieder überzeugen 
+-- 
+
+- Außerhalb:
+-- Menschen für sich gewinnen -> Aufmerksamkeit
+-- Politische Lage erkennen und Problemlösung vorschlagen
+-- Wünsche des Volks berücksichtigen
+
+Auch hier wieder: Das sind Ideen, aber es ist noch nicht klar erkennbar, wie das letztlich im Spiel umgesetzt werden soll. Zum Teil beschreiben Sie hier eher Strategien von Spielern und weniger das, was im Spiel passiert.
+
+== 6.) 
+Wie kann der Player das erreichen?
+Spielprinzip: 
+- Schaltflächen mit Entscheidungen
+- der Player wählt aus
+- jede Entscheidung ändert das Spielgeschehen anders
+- der Player wird über aktuelle Geschehnisse benachrichtigt, erhält Chance zu handeln
+
+Leider ist das weitgehend vage; im Grunde machen Sie hier Aussagen, die für jedes Spiel gelten. Außerdem greifen Sie mit dem Begriff der Schaltfläche schon der Entwicklung der Struktur vor.
+
+== 7.) Zusammenfasung
+
+Das folgende für den Entwurf relevante ist in Ihrer Beschreibung enthalten. Viele weitere Aspekte sind noch nicht klar genug ausformuliert, auch wenn schon eine Andeutung davon vorhanden ist.
+
+// Inhalt
+- Spieler sind Mitglieder einer politischen Partei.
+- Diese haben die Eigenschaft Einfluss.
+- Es gibt einen Informationsbereich für Ereignisse. (Evtl. zweiten Bereich für Auswirkungen von Handlungen.)
+- Spieler können Handlungen auswählen.
+
+// Funktionalitäten und Abläufe
+- Handlungen wirken sich auf den Einfluss von Spielern aus.
+- Einfluss bestimmt, welche Handlungen Spielern offen stehen.
+- Einfluss bestimmt, wie die Auswirkungen von Handlungen ausfallen.
+
+Hier sollten Sie noch weitere Inhalte und Funktionalitäten definieren.
+
+Außerdem gehen Sie aktuell noch nicht auf die Aspekte adaptive Anwendung und Verteilte Anwendung ein.
+
+Denken Sie bitte daran, dass es nicht sinnvoll ist, mit der Entwicklung der strukt.txt zu warten, bis Sie einen "perfekten" Entwurf erreicht haben.
+
