@@ -1,0 +1,37 @@
+=================================================================
+===Strukturelle Elemente, 14.11.2016===
+=================================================================
+
+==01 Headline==
+01_01 Titel/ "Machtergreifung in Deutschland"
+
+==02 Schaltflächen Menü==
+02_01 Start/ Beginnt das Spiel
+02_02 Partei 1,2,3.../ Wählt die Zugehörigkeit zu einer Partei
+02_03 Info/ zeigt einen Infotext zu der jeweiligen Partei an
+02_03 Charakter 1,2,3.../ Wählt den Charakter, der gespielt werden soll
+02_04 Load/ Lädt einen vorhandenen Spielstand
+
+== 03 Schaltflächen in-game==
+03_01 Ja/ Bestätigt 
+03_02 Nein/ Lehnt ab
+03_03 Fertig/ Beendet den Zug
+04_04 Save/ Sichert den Spielstand
+
+==04 Texteinblendungen==
+04_01 "Oh nein...!" / wird angezeigt, wenn der Spieler negativen Eindruck in der Politik hinterlässt
+04_02 "Sehr gut...!" / wird angezeigt, wenn der Spieler positiv handelt
+04_03 Geschehnis / Ein Veränderung im Spielverlauf tritt auf
+04_04 Trends / Informiert über die aktuelle Beliebtheiten
+
+==05 Handlungen==
+05_01 Agieren/ Der Spieler möchte eine Handlung ausführen
+05_02 Handlung 1,2,3... / Nutzer lässt seinen Charakter agieren, Handlung ausführen
+
+
+Bemerk: Parteien, Charaktere, Handlungen etc müssen zunächst genau im Projektentwurf definiert werden.
+Für die Unterscheidungen wurden zunächst 1,2,3... verwendet. 
+
+
+
+
