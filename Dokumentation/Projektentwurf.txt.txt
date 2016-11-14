@@ -1,4 +1,46 @@
  ==============================================================================
+=== [Ergänzung der Projektidee], v_[1.1], [2016-11.14] ===
+==============================================================================
+Zusammenfassung
+Spiel Machtergreifung 2021
+
+- Spiel, das im Jahre 2012 stattfindet
+- rundenbasiert, 10 Runden
+- dementsprechend fiktive, nicht existierende Parteien, machen das Spiel zudem interessanter
+- Der Nutzer wird zu Beginn des Spiels einer Partei beitreten
+- bekommt die Möglichkeit, sich Informationen zu den Parteien durchzulesen
+- wird in etwa so aussehen/ erste Ideen zu den Parteien:
+ //Partei 1: Natura
+ Infotext: Diese Partei will sich vor allem auf die Ökonomie in der Stadt konzentrieren, die in den letzten 
+ Jahren zu kurz kam. Gleichgewicht zwischen Infrastrukutur und grünen Plätzen sind Ziele dieser Partei.
+
+ //Partei 2: PP
+ Infotext: "Pro People" Dieser Partei liegt vor allem der soziale Aspekt in der Politik am Herzen.
+ Mit Projekten für bedürftige Menschen und Immigranten hat diese Partei sich in der Vergangenheit einen Namen gemacht.
+
+ //Partei 3: Futur
+ Infotext: Die Vertreter dieser Partei versuchen zu verdeutlichen, dass der Stadt die nötige Wirtschaftstruktur fehlt, welche 
+ ihr zu einem Aufschwung in den Welthandel und damit zum eigenen Wohlstand verhelfen würde.
+
+==Im Spiel==: Der Spieler hat seine Partei gewählt, muss nun sich zum Sieg führen durch Entscheidungen/Handlungen:
+ Pressekonferenzen, Projekte einleiten, etc.
+ Der Spieler soll jeweils mehrere Optionen für eine Handlung haben, wird zum Beispiel so aussehen:
+ "Wow, duch die Einnahmen kam Geld zusammen, welches für ein neues Projekt genutzt werden kann!" 
+ "Welches Projekt möchten sie einleiten?" A: Gesponsorter Marathon B: Straßenfest C: Benefizkonzert
+
+- Ziel der Entscheidungen: Möglichst viele Leute für sich zu gewinnen
+- Woher weiß der Spieler, was momentan die richtige Entscheidung ist?
+ 	Rundenbasierend werden Statistiken eingeblendet, die das Befinden der Wählerschaft darstellt:
+	Sieht so aus: "Den Menschen fehlt der Kontakt. Momentan würden viele gerne mehr Leute kommen."
+- Diese Informationen kann man sich als Assistenten vorstellen, der das Geschehen der Stadt im Blick hat und
+  alles an den Player weitergibt.
+
+//Sieg
+- nach der 10. Runde muss der Spieler prozentual die meisten Wähler für sich gewonnen haben
+- in jeder Runde handeln auch die andere Parteien
+
+
+==============================================================================
 === [Erster Entwurf des Projektes], v_[1.0], [2016-10.15] ===
 ==============================================================================
 - Name des Projektes: Spiel Machtergreifung 2021
